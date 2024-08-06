@@ -52,5 +52,3 @@ def calculator():
             print("Result:", result)
         else:
             print("Invalid choice. Please try again.")
-
-calculator()
